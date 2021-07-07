@@ -1,0 +1,12 @@
+body{
+    background-color: deeppink;
+}
+h1{
+    color: black;
+}
+table{
+    font-family: Arial,Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style: black;
+}
